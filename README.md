@@ -24,6 +24,7 @@ Primero creamos nuestro modelo de Regresión Logística. Luego separamos nuestro
 Vemos que el modelo tiene una precisión de 0,98. 
 Creamos una matriz de confusión para ver la cantidad de test acertados y vemos que: 152 se clasificaron como positivos siendo positivos, 0 se clasificaron como negativos siendo positivos, 3 se clasificaron como positivos siendo negativos y 7 se clasificaron como negativos siendo negativos.
 Finalmente creamos el siguiente reporte:
+
                   precision    recall  f1-score   support
 
          0.0       0.98      1.00      0.99       152
