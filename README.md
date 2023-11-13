@@ -11,7 +11,7 @@
 1. *ETL*
 
 Realizamos un proceso de ETL para normalizar nuestros datos donde extrajimos datos del excel proporcionado por el cliente y lo trabajamos para que nos quede en formato csv. El excel proporcionado se llama Hospitalización.xlsx y el csv se llama Datos_Limpios.csv.
-En esta normalización pasamos todas las variables a numéricas otorgándole índices que se encuentran en el diccionario de datos para asi poder buscar un patron con una matriz de correlación en el EDA. Además también reemplazamos los valores vacíos y algunos outliers por nulos.
+En esta normalización pasamos todas las variables a numéricas otorgándole índices que se encuentran en el diccionario de datos para asi poder buscar un patrón con una matriz de correlación en el EDA. Además también reemplazamos los valores vacíos y algunos outliers por nulos.
 
 2. *EDA*
 
