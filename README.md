@@ -31,8 +31,11 @@ Finalmente creamos el siguiente reporte:
          1.0       1.00      0.70      0.82        10
 
     accuracy                           0.98       162
+    
    macro avg       0.99      0.85      0.91       162
+   
 weighted avg       0.98      0.98      0.98       162
+
 
 0.0 = No hospitalizado y 1.0 = Si hospitalizado. 
 
