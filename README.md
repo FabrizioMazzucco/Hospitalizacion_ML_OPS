@@ -1,4 +1,4 @@
-<h1 align=center> **Hospitalizacion ML OPS** </h1> 
+<h1 align=center> **Hospitalización ML OPS** </h1> 
 
 <p align=center><img src=https://img.freepik.com/vector-gratis/gente-caminando-sentada-edificio-hospital-exterior-cristal-clinica-ciudad-ilustracion-vector-plano-ayuda-medica-emergencia-arquitectura-concepto-salud_74855-10130.jpg><p>
 
