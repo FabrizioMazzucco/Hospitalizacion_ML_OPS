@@ -25,7 +25,8 @@ Vemos que el modelo tiene una precisión de 0,98.
 Creamos una matriz de confusión para ver la cantidad de test acertados y vemos que: 152 se clasificaron como positivos siendo positivos, 0 se clasificaron como negativos siendo positivos, 3 se clasificaron como positivos siendo negativos y 7 se clasificaron como negativos siendo negativos.
 Finalmente creamos el siguiente reporte:
 
- ![reporte](https://github.com/FabrizioMazzucco/Hospitalizacion_ML_OPS/assets/103448781/743d6f15-70f0-4d24-9696-5eb1323e2c32)
+ 
+![reporte](https://github.com/FabrizioMazzucco/Hospitalizacion_ML_OPS/assets/103448781/19ebf593-ab00-4660-9891-d275720b8067)
 
 
 0.0 = No hospitalizado y 1.0 = Si hospitalizado. 
