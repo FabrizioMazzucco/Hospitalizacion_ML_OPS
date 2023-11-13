@@ -34,12 +34,19 @@ Finalmente creamos el siguiente reporte:
 weighted avg       0.98      0.98      0.98       162
 
 0.0 = No hospitalizado y 1.0 = Si hospitalizado. 
+
 Precision dice cual es el porcentaje de acertividad para cada etiqueta. 
+
 Recall representa la proporción de muestras de esa clase que fueron correctamente identificadas por el modelo.
+
 F1-Score es la media armónica entre precision y recall.
+
 Support es la cantidad de muestras de cada etiqueta.
+
 Accuracy muestra la precision del modelo en general.
+
 Macro avg es el promedio no ponderado de las métricas.
+
 Weighted avg es el promedio ponderado de las métricas.
 
 *Mi linkedin*: www.linkedin.com/in/fabrizio-mazzucco-403b0825a
