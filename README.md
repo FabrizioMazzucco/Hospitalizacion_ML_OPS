@@ -25,16 +25,7 @@ Vemos que el modelo tiene una precisión de 0,98.
 Creamos una matriz de confusión para ver la cantidad de test acertados y vemos que: 152 se clasificaron como positivos siendo positivos, 0 se clasificaron como negativos siendo positivos, 3 se clasificaron como positivos siendo negativos y 7 se clasificaron como negativos siendo negativos.
 Finalmente creamos el siguiente reporte:
 
-                  precision    recall  f1-score   support
-
-         0.0       0.98      1.00      0.99       152
-         1.0       1.00      0.70      0.82        10
-
-    accuracy                           0.98       162
-    
-   macro avg       0.99      0.85      0.91       162
-   
-weighted avg       0.98      0.98      0.98       162
+ ![reporte](https://github.com/FabrizioMazzucco/Hospitalizacion_ML_OPS/assets/103448781/743d6f15-70f0-4d24-9696-5eb1323e2c32)
 
 
 0.0 = No hospitalizado y 1.0 = Si hospitalizado. 
